@@ -50,7 +50,7 @@ student1.finishesSchoolYear();
 const student2 =
 new Student("Andrea", 12, "Science");
 student2.introduce();
-student1.finishesSchoolYear();
+student2.finishesSchoolYear();
 
 const student3 =
 new Student("Alexis", 9, "English");
