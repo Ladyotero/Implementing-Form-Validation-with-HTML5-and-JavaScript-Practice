@@ -54,5 +54,9 @@ student2.finishesSchoolYear();
 
 const student3 =
 new Student("Alexis", 9, "English");
+<<<<<<< HEAD
 student3.introduce();
 student3.finishesSchoolYear();
+=======
+student3.introduce();student3.finishesSchoolYear();
+>>>>>>> d879862f0545693ac55e92c89fb9c77c0e3e7e52

@@ -72,4 +72,4 @@ use standard functions when you need ``this`` to refer to the event target and u
 
 ## What does the number at the end of the col-* class name mean? (For example, what does the 8 at the end of col-md-8 mean?)
 
-``column-md-6`` what it means is that he is trying to add the fisrt name and last name, and he wants to testif it will work corecctly 50% of the space.
+``column-md-6`` what it means is that he is trying to add the first name and last name, and he wants to test if it will work corecctly 50% of the space.
